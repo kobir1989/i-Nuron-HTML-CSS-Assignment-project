@@ -260,8 +260,8 @@ footer {
   }
 
   .nav__list li {
-    font-size: 0.7rem;
-    margin: 0 1.5rem;
+    font-size: 0.5rem;
+    margin: 0 0.5rem;
   }
 
   .nav__btn {
@@ -287,8 +287,8 @@ footer {
 
   .header__img img {
     padding-top: 5%;
-    width: 15rem;
-    height: 15rem;
+    width: 13rem;
+    height: 13rem;
   }
   .info__section {
     width: 90%;
@@ -299,8 +299,8 @@ footer {
     padding: 10% 1% 0 1%;
   }
   .info__img img {
-    width: 15rem;
-    height: 15rem;
+    width: 13rem;
+    height: 13rem;
   }
 
   .info__text h3 {

@@ -6,7 +6,7 @@ HTML and CSS iNuron Assignment Project-2
 
 ![img](https://img.shields.io/badge/HTML-5-yellowgreen) ![img](https://img.shields.io/badge/CSS-3-red)
 
-### Deployed website link [Netlify](https://lansiter-html-css.netlify.app/)
+### Deployed website link [Netlify](https://lanister-html-css-2.netlify.app/)
 
 ## What I have learned in this project?
 
